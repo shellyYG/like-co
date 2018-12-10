@@ -58,7 +58,7 @@
     "core-js": "^2.5.5",
     "cors": "^2.8.5",
     "cross-env": "^5.1.4",
-    "date-fns": "^1.29.0",
+    "date-fns": "1.29.0",
     "disposable-email-domains": "^1.0.39",
     "eth-sig-util": "^1.4.2",
     "express": "^4.16.3",
